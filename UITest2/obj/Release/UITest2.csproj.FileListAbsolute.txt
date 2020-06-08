@@ -1,0 +1,12 @@
+C:\Users\julien.defforge\Desktop\XamarinUITest\UITest2\bin\Release\NUnit3.TestAdapter.dll
+C:\Users\julien.defforge\Desktop\XamarinUITest\UITest2\bin\Release\NUnit3.TestAdapter.pdb
+C:\Users\julien.defforge\Desktop\XamarinUITest\UITest2\bin\Release\nunit.engine.dll
+C:\Users\julien.defforge\Desktop\XamarinUITest\UITest2\bin\Release\nunit.engine.api.dll
+C:\Users\julien.defforge\Desktop\XamarinUITest\UITest2\bin\Release\UITest2.dll
+C:\Users\julien.defforge\Desktop\XamarinUITest\UITest2\bin\Release\nunit.framework.dll
+C:\Users\julien.defforge\Desktop\XamarinUITest\UITest2\bin\Release\nunit.framework.pdb
+C:\Users\julien.defforge\Desktop\XamarinUITest\UITest2\bin\Release\Xamarin.UITest.dll
+C:\Users\julien.defforge\Desktop\XamarinUITest\UITest2\obj\Release\UITest2.csprojAssemblyReference.cache
+C:\Users\julien.defforge\Desktop\XamarinUITest\UITest2\obj\Release\UITest2.csproj.CoreCompileInputs.cache
+C:\Users\julien.defforge\Desktop\XamarinUITest\UITest2\obj\Release\UITest2.csproj.CopyComplete
+C:\Users\julien.defforge\Desktop\XamarinUITest\UITest2\obj\Release\UITest2.dll
